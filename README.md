@@ -3,8 +3,10 @@
 Professional engineering hobbyist.
 
 💬 Ask me about embedded systems or hardware verification!
-  📫 How to reach me: benjaminyeffeth@gmail.com or my [LinkedIn](https://www.linkedin.com/in/benjamin-yeffeth/).
-  ⚡ Fun fact: I used be a Audio Recording/Mixing Engineer!
+
+📫 How to reach me: benjaminyeffeth@gmail.com or my [LinkedIn](https://www.linkedin.com/in/benjamin-yeffeth/).
+
+⚡ Fun fact: I used be a Audio Recording/Mixing Engineer!
 
 <!--
 **fleetingflatcher/fleetingflatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
