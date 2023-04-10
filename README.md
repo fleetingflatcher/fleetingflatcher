@@ -1,9 +1,9 @@
 ### Hello there 👋
 
 Professional hobbyist engineer. Always tinkering with tech.
+💬 Ask me what development board I'm most excited about at the moment! \
 
 🔎 Focuses on embedded systems, firmware engineering, and functional verification. \
-💬 Ask me what development board I'm most excited about at the moment! \
 📫 How to reach me: benjaminyeffeth@gmail.com or my [LinkedIn](https://www.linkedin.com/in/benjamin-yeffeth/). \
 ⚡ Fun fact: I used be a Audio Recording/Mixing Engineer
 
