@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Ben!
 
-> Computer Engineer at heart, both professionally & personally. Always tinkering with tech.
+> Computer Engineer at heart, both professionally & personally.
 
 ⚙️ Keeping firmware soft and hardware configurable. \
 🔎 Focuses on embedded system design, firmware development, and clean software architectures. \
